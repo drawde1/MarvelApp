@@ -8,5 +8,5 @@
 import Foundation
 
 
-let APIKEYPUBLIC = ""
-let APIKEYPRIVATE = ""
+let APIKEYPUBLIC = "ads"
+let APIKEYPRIVATE = "dasd"
