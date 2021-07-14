@@ -24,7 +24,7 @@
 		C938C448269F7F94008C815E /* CharacterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938C447269F7F94008C815E /* CharacterViewModel.swift */; };
 		C938C44A269F7FA1008C815E /* CellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938C449269F7FA1008C815E /* CellViewModel.swift */; };
 		C938C44C269F7FB0008C815E /* ImageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938C44B269F7FB0008C815E /* ImageViewModel.swift */; };
-		C938C44E269F7FD2008C815E /* CharacterModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938C44D269F7FD2008C815E /* CharacterModels.swift */; };
+		C938C44E269F7FD2008C815E /* CharacterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C938C44D269F7FD2008C815E /* CharacterModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,7 +68,7 @@
 		C938C447269F7F94008C815E /* CharacterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterViewModel.swift; sourceTree = "<group>"; };
 		C938C449269F7FA1008C815E /* CellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellViewModel.swift; sourceTree = "<group>"; };
 		C938C44B269F7FB0008C815E /* ImageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewModel.swift; sourceTree = "<group>"; };
-		C938C44D269F7FD2008C815E /* CharacterModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterModels.swift; sourceTree = "<group>"; };
+		C938C44D269F7FD2008C815E /* CharacterModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,7 +181,7 @@
 		C938C436269F7EB3008C815E /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				C938C44D269F7FD2008C815E /* CharacterModels.swift */,
+				C938C44D269F7FD2008C815E /* CharacterModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -349,7 +349,7 @@
 				C938C43C269F7F0E008C815E /* APIManager.swift in Sources */,
 				C938C408269F7D2C008C815E /* ViewController.swift in Sources */,
 				C938C404269F7D2C008C815E /* AppDelegate.swift in Sources */,
-				C938C44E269F7FD2008C815E /* CharacterModels.swift in Sources */,
+				C938C44E269F7FD2008C815E /* CharacterModel.swift in Sources */,
 				C938C445269F7F7C008C815E /* CharacterCell.swift in Sources */,
 				C938C44A269F7FA1008C815E /* CellViewModel.swift in Sources */,
 				C938C448269F7F94008C815E /* CharacterViewModel.swift in Sources */,
